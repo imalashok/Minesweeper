@@ -1,0 +1,22 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Minesweeper/task/out/test/classes/
+/Problems/Creating queue/out/
+/Problems/Creating queue/out/production/classes/
+/Problems/Even numbers go first/out/
+/Problems/Even numbers go first/out/production/classes/
+/Problems/Getting the max element of a stack/out/
+/Problems/Getting the max element of a stack/out/production/classes/
+/Problems/Greedy load balance/out/
+/Problems/Greedy load balance/out/production/classes/
+/Problems/Html Parser/out/
+/Problems/Html Parser/out/production/classes/
+/Problems/The LIFO principle in action/out/
+/Problems/The LIFO principle in action/out/production/classes/
+/Problems/Which brackets are balanced/out/
+/Problems/Which brackets are balanced/out/production/classes/
+/Problems/Working with queue/out/
+/Problems/Working with queue/out/production/classes/
